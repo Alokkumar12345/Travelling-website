@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0  ;
+}
+body {
+    margin-top: -20px;
+    background-color: #0da60f;
+    font-family: Arial, sans-serif;
+
+
+
+    
+}
+header {
+    margin-top: -30px;
+    margin-left: -60px;
+    margin-right: -60px;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgb(64, 65, 63);
+    
+    font-style: oblique;
+    color: rgb(233, 230, 230);
+    
+            }
+header h1 {
+    margin: auto;
+    font-size: 36px;
+    font-style: Crimson Pro;
+}
+header div{
+    margin-top: 2%;
+
+}
+nav {
+    background-color: #093f41;
+    overflow: hidden;
+    margin-top: 0px;
+    margin-left: -60px;
+    margin-right: -60px;
+    
+}
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+   
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius: 5px;
+}
+.container {
+    padding: 20px;
+    text-align: center;
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    color: #30b8bf;
+    }
+
+
+
+
+    
+.container div {
+    margin: 2px ;
+
+    
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    margin-left: -330px;
+    position: fixed;
+    text-align: center;
+    width: 1800px;
+    bottom: 0;
+    }
+/* for searchbox */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 50px;
+    text-align: center;
+}
+.search-container {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+}
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+}
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    background-color: #073b76;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+button:hover {
+    background-color: #167299;
+}
+.bodyclass{
+    background-color: #7fdfd7;
+    background-image: url(jaipur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.places{
+    display: flex;
+    padding-left: -30px;
+    width: 50%;
+    color:  #0da60f;
+    
+}
+.Read{
+    color: #181e20;
+}
+.Beautiful{
+    color: #c1d82d;
+}
+
+
+
+
